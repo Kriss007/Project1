@@ -1,1 +1,2 @@
 This is Second file which we created in Bugfix branch.
+This thing is being done by Git.
